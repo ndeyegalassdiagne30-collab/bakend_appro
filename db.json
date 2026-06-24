@@ -32,7 +32,20 @@
       "imageUrl": "https://res.cloudinary.com/dduq39adm/image/upload/v1781791765/sq3ell2ytgylaldrltg6.jpg",
       "imagePublicId": "sq3ell2ytgylaldrltg6"
     }
-   
+
   ],
+
+   "users": [
+    {
+      "id": "admin-001",
+      "email": "admin@gestion.com",
+      "motDePasse": "admin123",
+      "role": "admin",
+      "nom": "Administrateur",
+      "fournisseurId": null
+    }
+  ],
+
+   "fournisseurs": [],
   "$schema": "./node_modules/json-server/schema.json"
 }
